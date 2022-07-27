@@ -1,0 +1,1 @@
+# drf_self_pracrice
